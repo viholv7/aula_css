@@ -1,3 +1,21 @@
 body{
-    background: rebeccapurple;
+    background: rgb(98, 95, 100);
+}
+p{
+    font-size: 40px;
+    font-family: Arial;
+    color: seashell;
+}
+
+p.formato{
+    color: seashell;
+    font-size: 15px;
+    font-family: cursive;
+
+}
+.centro{
+    text-align: center;
+}
+h2.h3,h4,p{
+    color: sienna;
 }
